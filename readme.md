@@ -1,4 +1,4 @@
-## Hey, I'm Loris
+## Hey 👋, I'm Loris
 
 **[xtns.dev](https://xtns.dev)**
 
