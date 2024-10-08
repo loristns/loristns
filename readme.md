@@ -2,7 +2,7 @@
 
 **[xtns.dev](https://xtns.dev)**
 
-- 🤖 My topics of interest are **machine learning**, **edge computing** and **web development**
-- 👨‍🎓 I'm pursuing a MSc in computer science and data at [La Rochelle Université](https://www.univ-larochelle.fr/en/)
+- 🤖 My interested are **machine learning**, **edge computing** and **web development**
+- 🛠️ I'm working on web products at [Ikomia](https://www.ikomia.ai/)
 - 🧪 I'm currently **implementing LLM from scratch**
-- 💬 Reach me: [twitter.com/loristns](https://twitter.com/loristns)
+- 💬 Reach me: [x.com/loristns](https://x.com/loristns)
